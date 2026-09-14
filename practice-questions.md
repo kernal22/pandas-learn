@@ -12,3 +12,8 @@ A repository for learning and practicing data manipulation with the Python panda
 - Find csk matches won by 50 or more runs
 - Find all super over match
 - Creat data quality report for both datasets
+
+###  Practice questions bases on groupby, aggregation, merging
+- For each batter find total runs, max run in a ball, avg run per ball
+- Find runs scored by each batsman against each bowling team
+- Calculate teams avg runs for every delivery 
